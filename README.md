@@ -4,7 +4,6 @@
 
 ![Static Badge](https://img.shields.io/badge/build-passing-brightgreen)
 ![GitHub Repo stars](https://img.shields.io/github/stars/johnkirathe/ngx-translatehub)
-![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/johnkirathe/ngx-translatehub/main)
 
 ## Usage
 
