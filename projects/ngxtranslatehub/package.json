@@ -1,0 +1,18 @@
+{
+  "name": "ngx-translatehub",
+  "version": "0.0.2",
+  "description": "Ngx-TranslateHub is an Angular library designed to simplify language translation and localization in Angular applications. It provides a seamless way to load, manage, and apply translations dynamically using modern Angular features like signals and reactive programming. The library integrates with translation APIs, such as LibreTranslate, enabling automatic string translation, and includes utilities for managing supported languages, setting default languages, and persisting user preferences. With Ngx-TranslateHub, developers can enhance the multilingual capabilities of their applications with minimal setup.",
+  "author": {"name": "John Kirathe", "email": "kirathendegwa@gmail.com", "url": "https://github.com/johnkirathe"},
+  "repository": {"type": "git", "url": "https://github.com/johnkirathe/ngxtranslatehub"},
+  "homepage": "https://github.com/johnkirathe/ngxtranslatehub",
+  "keywords": ["language translation", "angular", "angularv18.2"],
+  "license":"MIT",
+  "peerDependencies": {
+    "@angular/common": "^18.2.0",
+    "@angular/core": "^18.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
